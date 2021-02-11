@@ -25,7 +25,7 @@ Exemplo de Entrada  |   Exemplo de Saída |
 </details>
 
 <details>
-<summary>Distance between Bikes Challenge ( Digital Innovation One )</summary>
+<summary>Distance Between Bikes Challenge ( Digital Innovation One )</summary>
 <p>
 
 ### Entrada
