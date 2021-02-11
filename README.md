@@ -2,50 +2,6 @@
 
 ## Index
 
-<details>
-<summary>Division Challenge ( Digital Innovation One )</summary>
-<p>
-
-### Desafio
-Você terá o desafio de escrever um algoritmo que leia 2 números e imprima o resultado da divisão do primeiro pelo segundo. Caso não for possível, mostre a mensagem “divisao impossivel”.
-
-### Entrada
-A entrada contém um número inteiro N. Este N será a quantidade de pares de valores inteiros (X e Y) que serão lidos em seguida.
-
-### Saída
-Para cada caso mostre o resultado da divisão com um dígito após o ponto decimal, ou “divisao impossivel” caso não seja possível efetuar o cálculo.
-
-Exemplo de Entrada  |   Exemplo de Saída |
-------------------  |   -----------------
-3                   |   -1.5
-3 -2                |   divisão impossível
--8 0                |   0.0
-0 8                 |
-</p>
-</details>
-
-<details>
-<summary>Distance Between Bikes Challenge ( Digital Innovation One )</summary>
-<p>
-
-### Entrada
-Duas motos (X e Y) partem em uma mesma direção. A moto X sai com velocidade constante de 60 Km/h e a moto Y sai com velocidade constante de 90 Km/h.
-Em uma hora (60 minutos) a moto Y consegue se distanciar 30 quilômetros da moto X, ou seja, consegue se afastar um quilômetro a cada 2 minutos.
-O seu desafio é ler a distância (em Km) e calcular quanto tempo leva (em minutos) para a moto Y tomar essa distância da outra moto.
-
-### Entrada
-O arquivo de entrada contém um número inteiro K que representa a quantidade de quilômetro que que a moto Y deve estar da moto X.
-
-### Saída
-Imprima o tempo necessário para a moto Y ficar com a quantidade K de quilômetro da moto X, seguido da mensagem " minutos".
-
-Exemplo de Entrada  |   Exemplo de Saída |
-------------------  |   -----------------
-30                  |   60 minutos
-110                 |   220 minutos
-</p>
-</details>
-
 <details>    
 <summary>Cassava Feast Challenge ( Digital Innovation One )</summary>
 
@@ -73,6 +29,50 @@ Exemplo de Entrada  |   Exemplo de Saída |
 2                   |   
 2                   |
 2                   |    
+</details>
+
+<details>
+<summary>Distance Between Bikes Challenge ( Digital Innovation One )</summary>
+<p>
+
+### Entrada
+Duas motos (X e Y) partem em uma mesma direção. A moto X sai com velocidade constante de 60 Km/h e a moto Y sai com velocidade constante de 90 Km/h.
+Em uma hora (60 minutos) a moto Y consegue se distanciar 30 quilômetros da moto X, ou seja, consegue se afastar um quilômetro a cada 2 minutos.
+O seu desafio é ler a distância (em Km) e calcular quanto tempo leva (em minutos) para a moto Y tomar essa distância da outra moto.
+
+### Entrada
+O arquivo de entrada contém um número inteiro K que representa a quantidade de quilômetro que que a moto Y deve estar da moto X.
+
+### Saída
+Imprima o tempo necessário para a moto Y ficar com a quantidade K de quilômetro da moto X, seguido da mensagem " minutos".
+
+Exemplo de Entrada  |   Exemplo de Saída |
+------------------  |   -----------------
+30                  |   60 minutos
+110                 |   220 minutos
+</p>
+</details>
+
+<details>
+<summary>Division Challenge ( Digital Innovation One )</summary>
+<p>
+
+### Desafio
+Você terá o desafio de escrever um algoritmo que leia 2 números e imprima o resultado da divisão do primeiro pelo segundo. Caso não for possível, mostre a mensagem “divisao impossivel”.
+
+### Entrada
+A entrada contém um número inteiro N. Este N será a quantidade de pares de valores inteiros (X e Y) que serão lidos em seguida.
+
+### Saída
+Para cada caso mostre o resultado da divisão com um dígito após o ponto decimal, ou “divisao impossivel” caso não seja possível efetuar o cálculo.
+
+Exemplo de Entrada  |   Exemplo de Saída |
+------------------  |   -----------------
+3                   |   -1.5
+3 -2                |   divisão impossível
+-8 0                |   0.0
+0 8                 |
+</p>
 </details>
 
 <details>    
