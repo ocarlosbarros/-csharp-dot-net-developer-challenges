@@ -6,8 +6,8 @@
 
 # Visual Studio Code files
 .vscode/
-bin/
-obj/
+*/bin/
+*/obj/
 
 # Visual Studio files
 .vs/
