@@ -1,0 +1,14 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code files
+.vscode/
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+
