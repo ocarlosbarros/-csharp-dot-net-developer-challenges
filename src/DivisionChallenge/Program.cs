@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chalenges
+namespace DivisionChallenge
 {
     class Program
     {
